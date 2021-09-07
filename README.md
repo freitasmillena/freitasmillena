@@ -1,4 +1,4 @@
-### Welcome! 💜 I'm Millena Freitas 😊
+## Welcome! 💜 I'm Millena Freitas 😊
 
 ⭐ 23 yo <br>
 🗺️ From Braga - Portugal <br>

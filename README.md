@@ -4,6 +4,8 @@
 🗺️ From Braga - Portugal <br>
 📚 Studying Software Engineering at University of Minho
 
+<a href="https://millenasantosresume.netlify.app/">More about me!</a>
+
 <br>
 
 <div>

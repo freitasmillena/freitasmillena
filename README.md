@@ -5,6 +5,13 @@
 📚 Studying Software Engineering at University of Minho
 
 <a href="https://millenasantosresume.netlify.app/" target="_blank">More about me!</a>
+
+<br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/freitasmillena/count.svg" />
+</p>
+
   
 <div style="display: inline_block">
  
@@ -44,9 +51,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasmillena&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br><br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/freitasmillena/count.svg" />
-</p>
 

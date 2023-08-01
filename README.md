@@ -25,7 +25,7 @@
 
 
 <p align="left"> 
-  Visitors 🥸<br><br>
+  Visitors 🥸<br>
   <img src="https://profile-counter.glitch.me/freitasmillena/count.svg" />
 </p>
   

@@ -5,13 +5,6 @@
 📚 Studying Software Engineering at University of Minho
 
 <a href="https://millenasantosresume.netlify.app/" target="_blank">More about me!</a>
-
-<br>
-<p align="left"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/freitasmillena/count.svg" />
-</p>
-
   
 <div style="display: inline_block">
  
@@ -29,6 +22,12 @@
   <img align="center" alt="Millena-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   
 </div>
+
+
+<p align="left"> 
+  Visitors <br>
+  <img src="https://profile-counter.glitch.me/freitasmillena/count.svg" />
+</p>
   
 ## How to contact me
 

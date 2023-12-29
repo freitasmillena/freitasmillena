@@ -1,6 +1,5 @@
 ## Welcome! 💜 I'm Millena Freitas 😊
 
-⭐ 25 yo <br>
 🗺️ From Braga - Portugal <br>
 📚 Studying Software Engineering at University of Minho
 
